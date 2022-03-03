@@ -1,0 +1,15 @@
+.m-cards {
+    margin-bottom: 30px;
+    &__wrapper {
+        display: flex;
+        justify-content: space-between;
+        padding: 30px 0;
+    }
+    &__item {
+        width: 50%;
+    }
+    &__img {
+        width: 100%;
+    }
+    
+}

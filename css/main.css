@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0a0a0b;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+}
+
+p {
+  color: #7e7d7d;
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-family: "Prata", serif;
+  color: #fff;
+}
+
+h2 {
+  font-family: "Prata", serif;
+  color: #fff;
+}
+
+.g-container {
+  width: 100%;
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.h-mr-20 {
+  margin-right: 20px;
+}
+
+.h-mr-50 {
+  margin-right: 50px;
+}
+
+.m-header__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px 0;
+}
+
+.m-header__logo {
+  font-family: "Prata", serif;
+  color: #fff;
+}
+
+.m-nav {
+  font-family: "Inter", sans-serif;
+}
+
+.m-nav__item {
+  color: #7e7d7d;
+  padding: 10px;
+}
+
+.a-btn {
+  background-color: #fbe850;
+  color: #2e3038;
+  font-family: "Prata", serif;
+  padding: 15px 25px;
+  font-size: 15px;
+}
+
+.m-main-info {
+  margin-bottom: 60px;
+}
+
+.m-main-info__title {
+  width: 50%;
+  font-size: 40px;
+}
+
+.m-main-info__text {
+  width: 50%;
+}
+
+.m-company-logos__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.m-cards {
+  margin-bottom: 30px;
+}
+
+.m-cards__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 30px 0;
+}
+
+.m-cards__item {
+  width: 50%;
+}
+
+.m-cards__img {
+  width: 100%;
+}
+
+.m-about-us {
+  background-color: #2e3038;
+}
+
+.m-about-us__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 30px 0;
+}
+
+.m-about-us__item {
+  width: 50%;
+}
+
+.m-about-us__title {
+  font-size: 25px;
+}
+
+.m-about-us__text {
+  line-height: 1.5;
+}
+
+.m-contact {
+  margin-bottom: 60px;
+}
+
+.m-contact__wrapper {
+  padding: 30px 0;
+}
+
+.m-contact__title {
+  font-size: 25px;
+}
+
+.m-contact__text {
+  max-width: 400px;
+  text-align: justify;
+}
+
+.m-footer {
+  background-color: #2e3038;
+}
+
+.m-footer__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30px 0;
+}
+
+.m-footer__logo {
+  font-family: "Prata", serif;
+  color: #fff;
+}
+
+.icon {
+  padding: 5px;
+}
+/*# sourceMappingURL=main.css.map */

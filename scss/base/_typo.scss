@@ -1,0 +1,23 @@
+//fonts
+$arial-font: Arial, Helvetica, sans-serif;
+$times-new-roman-font: 'Times New Roman', Times, serif;
+$verdana-font: Verdana, Geneva, Tahoma, sans-serif;
+$sans-serif-font: sans-serif;
+$prata-font: 'Prata', serif;
+$inter-font: 'Inter', sans-serif;
+
+p {
+    color: $c-gray3;
+    font-family: $inter-font;
+}
+
+h1 {
+    font-family: $prata-font;
+    color: $c-white;
+}
+
+h2 {
+    font-family: $prata-font;
+    color: $c-white;
+}
+

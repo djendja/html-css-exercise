@@ -1,0 +1,16 @@
+.m-footer {
+    background-color: $c-gray;
+    &__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:30px 0;
+    }
+    &__logo {
+        font-family: $prata-font;
+        color: $c-white;
+    }
+}
+.icon {
+    padding:5px;
+}

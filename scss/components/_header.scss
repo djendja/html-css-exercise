@@ -1,0 +1,20 @@
+.m-header {
+    &__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:30px 0;
+    }
+    &__logo {
+        font-family: $prata-font;
+        color: $c-white;
+    }
+}
+
+.m-nav {
+    font-family: $inter-font;
+    &__item {
+        color: $c-gray3;
+        padding: 10px;
+    }
+}
